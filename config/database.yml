@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: recipes_api_development
+  username: mbradford
+  password: 
+  pool: 5
+  timeout: 5000
+  
+test:
+  adapter: postgresql
+  database: recipes_api_test
+  username: postgres

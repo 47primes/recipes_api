@@ -1,0 +1,12 @@
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+tmp/**/*
+._*
+**/._*
